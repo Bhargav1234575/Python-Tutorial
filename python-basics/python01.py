@@ -10,6 +10,14 @@ with their types
 """
 
 print("Start code.")
-print("Bhargav",18,91029,94.00) 
+Name = "Bhargav"
+Age = 18
+ID = 91029
+Percentage = 94.00
+
+print(type(Name),Name) 
+print(type(Age),Age)
+print(type(ID),ID)
+print(type(Percentage),Percentage)
 
 
